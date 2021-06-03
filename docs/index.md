@@ -63,22 +63,20 @@
 ## 专业技能
 <br/>
 
-- 熟悉JavaSE基础知识，了解多线程与并发编程；了解常用设计模式(代理、单例、工厂等)及反射、了解自定义注解、泛型等；了解常用数据结构、常用算法以及代码实现。
-- 熟悉了解前端的基础知识，html5，css3，javascript。
-- 了解使用过Eclipse/IDEA、Svn、Git、Maven、Docker等开发及版本控制工具；
-- 了解使用Spring、SpirngMVC、Mybatis、MybatisPus、SpringBoot；
-- 了解接触过前端框架Vue、BootStrap等;
-- 了解Api管理 Swagger。
-- 了解sql优化；熟练使用MySQL关系型数据库；了解使用Redis、MongoDb等非关系型数据库；熟悉搜索服务框架 Elasticsearch及其分片集群。
-- 了解常用的消息中间件ActiveMQ、RabbitMQ等消息队列的使用场景及实战。
-- 了解使用Mycat数据库进行数据库的分表分库，读写分离;
-- 熟悉Restfull API开发规范，熟悉第三方授权OAuth2.0协议、JWT标准、对接第三方支付接口;
-- 熟悉SOA、分布式、微服务架构，熟悉Dubbo、SpringCloud等微服务框架;
-- 了解Nigx代理服务器集群，动静分离，反向代理,前后分离；
-- 熟悉Linux的常见操作;
-- 熟悉junit5单元测试;
-
-
+- **熟悉JavaSE基础知识，了解多线程与并发编程；了解常用设计模式(代理、单例、工厂等)及反射、了解自定义注解、泛型等；了解常用数据结构、常用算法以及代码实现。
+- **熟悉了解前端的基础知识，html5，css3，javascript。
+- **了解使用过Eclipse/IDEA、Svn、Git、Maven、Docker等开发及版本控制工具；
+- **了解使用Spring、SpirngMVC、Mybatis、MybatisPus、SpringBoot；
+- **了解接触过前端框架Vue、BootStrap等;
+- **了解Api管理 Swagger。
+- **了解sql优化；熟练使用MySQL关系型数据库；了解使用Redis、MongoDb等非关系型数据库；熟悉搜索服务框架 Elasticsearch及其分片集群。
+- **了解常用的消息中间件ActiveMQ、RabbitMQ等消息队列的使用场景及实战。
+- **了解使用Mycat数据库进行数据库的分表分库，读写分离;
+- **熟悉Restfull API开发规范，熟悉第三方授权OAuth2.0协议、JWT标准、对接第三方支付接口;
+- **熟悉SOA、分布式、微服务架构，熟悉Dubbo、SpringCloud等微服务框架;
+- **了解Nigx代理服务器集群，动静分离，反向代理,前后分离；
+- **熟悉Linux的常见操作;
+- **熟悉junit5单元测试;
 
 
 2、	熟练掌握JavaSE基础知识，熟悉多线程与并发编程，拥有丰富的系统设计分析能力及面向对象分析和设能力，熟悉常用的设计模式（代理、单例、工厂等）及反射、了解自定义注解、泛型等；
@@ -104,11 +102,21 @@
 ## 项目经历
 
 <br/>
-项目四：MPCS<br/>
+
+**项目三：项目内部管理系统<br/>
+项目描述：项目组内部使用的管理，对项目的相关信息进行web页面显示。<br/>
+开发环境：java+sprigboot2+mybatis+mysql<br/>
+工作内容：在springboot框架下，编写后端代码，利用mybatis持久层框架从数据库中增删改查，将获取的结果返回给前端web界面**<br/>
+
+
+<br/>
+
+**项目四：MPCS<br/>
 项目描述：Linux系统上进程间通讯。接收从通讯设备上的信号，转换为消息，在不同的进程中进行不同的处理。<br/>
-开发环境：Linux + C++11<br/>
+开发环境：Linux<br/>
+开发语言：C++11<br/>
 负责模块：主要是维护迭代其中一个进程（Collector)，此进程负责对接收到的数据进行存储处理和内容修改处理。<br/>
-工作内容：编码+测试。利用C++编写代码，并编写对应的CT(code test)与IT(influence test)测试项目，同时将测试的log与代码上传至版本管理器（svb&git)。<br/>
+工作内容：编码+测试。利用C++编写代码，并编写对应的CT(code test)与IT(influence test)测试项目，同时将测试的log与代码上传至版本管理器（svb&git)。**<br/>
 
 
 ---
