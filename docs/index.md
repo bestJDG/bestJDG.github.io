@@ -85,13 +85,13 @@
 <br/>
 
 **项目一：上融贷** <br/>
-**项目描述：一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。** </br>
-**技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven、vue、mycat** </br>
+**项目描述：一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。** <br/>
+**技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven、vue、mycat** <br/>
 **工作内容：** <br/>
-**1.根据文档进行功能接口开发,与数据库的交互操作** </br>
-**2.短信发送** </br>
-**3.redis缓存** </br>
-**4.jwt登录** </br>
+**1.根据文档进行功能接口开发,与数据库的交互操作** <br/>
+**2.短信发送** <br/>
+**3.redis缓存** <br/>
+**4.jwt登录** <br/>
 
 
 **项目二：CSP** <br/>
