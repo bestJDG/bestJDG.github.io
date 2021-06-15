@@ -89,9 +89,9 @@
 **技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven、vue、mycat** <br/>
 **工作内容：** <br/>
 **1.根据文档进行功能接口开发,与数据库的交互操作** <br/>
-**2.短信发送** <br/>
+**2.短信发送，文件存储【阿里云】** <br/>
 **3.redis缓存** <br/>
-**4.jwt登录** <br/>
+**4.单点登录** <br/>
 
 
 **项目二：CSP** <br/>
