@@ -86,22 +86,31 @@
 
 **项目一：上融贷**<br/>
 **项目描述：一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。**</br>
-**技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven**</br>
-
+**技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven、vue、mycat**</br>
+**工作内容：**<br/>
+**1.根据文档进行功能接口开发,与数据库的交互操作**</br>
+**2.短信发送**</br>
+**3.redis缓存**</br>
+**3.jwt登录**</br>
 
 
 **项目二：CSP<br/>
 项目描述：windows客户端应用程序，代码中调用视频厂商的sdk，实现两台电脑间的视频连接<br/>
 开发环境：java<br/>
-工作内容:**
-**1. 根据不同的用户的需求，在csp原有的框架上进行修改。**
-**2. 进行出差驻场开发，与用户技术人员联合测试。**<br/><br/>
+工作内容:**<br/>
+**1. 根据不同的用户的需求，在csp原有的框架上进行修改。**<br/>
+**2. 进行出差驻场开发，与用户技术人员联合测试。**<br/>
+**3. 部署项目上线。**
+
+<br/>
 
 **项目三：项目内部管理系统<br/>
 项目描述：项目组内部使用的管理，对项目的相关信息进行web页面显示。<br/>
 开发环境：java+sprigboot2+mybatis+mysql<br/>
-工作内容：在springboot框架下，编写后端代码，利用mybatis持久层框架从数据库中增删改查，将获取的结果返回给前端web界面**<br/>
+工作内容：**<br/>
 
+**1.在springboot框架下，编写后端代码，利用mybatis持久层框架从数据库中增删改查，将获取的结果返回给前端web界面**<br/>
+**2.搭建dev环境和produce环境**<br/>
 
 <br/>
 
