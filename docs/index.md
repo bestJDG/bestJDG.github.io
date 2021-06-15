@@ -67,7 +67,7 @@
 - **了解前端的基础知识，html5，css3，javascript。**
 - **了解接触过前端框架Vue、BootStrap等;**
 - **了解使用过Eclipse/IDEA、Svn、Git、Maven、Docker等开发及版本控制工具；**
-- **了解使用Spring、SpirngMVC、Mybatis、MybatisPus、SpringBoot；**
+- **了解使用Spring、SpirngMVC、Mybatis、MybatisPlus、SpringBoot；**
 - **了解Api管理 Swagger。**
 - **了解sql优化；熟练使用MySQL关系型数据库；**
 - **了解使用Redis等非关系型数据库；**
@@ -83,6 +83,12 @@
 ## 项目经历
 
 <br/>
+
+**项目一：上融贷**<br/>
+**项目描述：一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。**</br>
+**技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven**</br>
+
+
 
 **项目二：CSP<br/>
 项目描述：windows客户端应用程序，代码中调用视频厂商的sdk，实现两台电脑间的视频连接<br/>
