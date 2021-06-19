@@ -85,8 +85,7 @@
 <br/>
 
 **项目一：上融贷** <br/>
-**项目描述：一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。本系统采用了前后台分离技术，微服务架构，使用 Springboot 整合 Mybatis 和 SpringMVC 做独立模块以及整合 redis 做热点数据缓存，nacos 实现服务中心，sentinel实现降级和熔断，gateway做网关， Nginx 负载均衡到后台网关集群，RabbitMQ 做消息队列，流量削峰，异步处理提高业务处理效 率和减轻后台请求压力，mycat做数据库中间件，使用 Docker 自动化运维。前端使用vue+element ui。
-** <br/>
+**项目描述：一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。本系统采用了前后台分离技术，微服务架构，使用 Springboot 整合 Mybatis 和 SpringMVC 做独立模块以及整合 redis 做热点数据缓存，nacos 实现服务中心，sentinel实现降级和熔断，gateway做网关， Nginx 负载均衡到后台网关集群，RabbitMQ 做消息队列，流量削峰，异步处理提高业务处理效 率和减轻后台请求压力，mycat做数据库中间件，使用 Docker 自动化运维。前端使用vue+element ui。**<br/>
 **技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven、vue、mycat** <br/>
 **功能点：账户绑定，额度申请，积分查询，借款申请，个人中心，单点登录，短信验证码发送，文件存储等等。**<br/>
 **工作内容：** <br/>
