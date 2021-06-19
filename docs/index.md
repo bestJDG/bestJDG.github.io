@@ -46,7 +46,7 @@
  - **负责所分配功能模块的功能开发、单元测试、代码优化工作**
  - **遵循开发管理流程，编写和完善设计文档、测试报告、测试日志记录**
 
-<br/><br/><br/>
+<br/><br/>
 
 **公司名称：苏州赞同科技有限公司**<br/>
 **职位名称：java开发工程师**<br/>
@@ -82,10 +82,8 @@
 
 ## 项目经历
 
-<br/>
-
 ### 项目一：上融贷
-**项目描述：** <br/>
+**项目描述：**<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;**一个网络借贷信息中介服务平台，为个人投资者、个人融资用户和小微企业提供专业的线上信贷及出借服务。本系统采用了前后台分离技术，微服务架构，使用 Springboot 整合 Mybatis 和 SpringMVC 做独立模块以及整合 redis 做热点数据缓存，nacos 实现服务中心，sentinel实现降级和熔断，gateway做网关， Nginx 负载均衡到后台网关集群，RabbitMQ 做消息队列，流量削峰，异步处理提高业务处理效 率和减轻后台请求压力，mycat做数据库中间件，使用 Docker 自动化运维。前端使用vue+element ui。**<br/><br/>
 **技术栈：Java基础、HTML、CSS、JavaScript、Spring、SpringMVC、MyBatis、SpringBoot、SpringCloud Alibaba、MySQL、Redis、RabbitMQ、idea、maven、vue、mycat** <br/><br/>
 **功能点：账户绑定，额度申请，积分查询，借款申请，个人中心，单点登录，短信验证码发送，文件存储等等。**<br/>
@@ -121,7 +119,6 @@
 - **在springboot框架下，编写后端代码，利用mybatis持久层框架从数据库中增删改查，将获取的结果返回给前端web界面**<br/>
 - **搭建dev环境和produce环境**<br/>
 - **等等。** <br/>
-
 <br/>
 
 ### 项目四：MPCS<br/>
@@ -130,7 +127,9 @@
 开发环境：Linux<br/><br/>
 开发语言：C++11<br/><br/>
 负责模块：主要是维护迭代其中一个进程（Collector)，此进程负责对接收到的数据进行存储处理和内容修改处理。<br/><br/>
-工作内容：编码+测试。利用C++编写代码，并编写对应的CT(code test)与IT(influence test)测试项目，同时将测试的log与代码上传至版本管理器（svb&git)。**<br/><br/>
+工作内容：编码+测试。利用C++编写代码，并编写对应的CT(code test)与IT(influence test)测试项目，同时将测试的log与代码上传至版本管理器（svb&git)。**
+
+
 ---
 
 ## 自我认知
